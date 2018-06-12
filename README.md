@@ -1,4 +1,4 @@
-## Tiny app
+# Tiny app
 
 Tiny App is a full stack web application built with Node.js and Express which allows users to create and access their own list of shortened urls
 
@@ -18,9 +18,9 @@ Run the development web server using the command: 'node express_server.js'
 
 
 ## Screenshots
-# Home Page
+### Home Page
 !['Home Page'](https://github.com/dkhayutin/TinyApp/blob/master/docs/Home-page.png?raw=true)
-# Registration Page
+### Registration Page
 !['Registration Page'](https://github.com/dkhayutin/TinyApp/blob/master/docs/registration-page.png?raw=true)
-# Sample shortURL's 
+### Sample shortURL's 
 !['Sample shortURL's'](https://github.com/dkhayutin/TinyApp/blob/master/docs/userURLs.png?raw=true)
