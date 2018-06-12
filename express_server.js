@@ -14,7 +14,7 @@ app.use(cookieSession({
 
 var urlDatabase = {
   "b2xVn2":  {
-    longURL: "http://www.lighthouselabs.ca",
+    longURL: "http://www.nbc.com",
     userId: "userRandomID"
   },
   "9sm5xK": {
